@@ -56,3 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# Redis file (not connected to this file)
+dump.rdb
